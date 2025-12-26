@@ -82,9 +82,9 @@ python weather_data_analysis.py
 
 ```
 Weather-Data-Analysis/
-│── weather.csv
-│── weather_data_analysis.py
-│── README.md
+│──README.md
+│──weather.csv
+│──  weather_data_analysis.py
 ```
 
 ---
@@ -110,7 +110,6 @@ Weather-Data-Analysis/
 ## 👩‍💻 Author
 
 **Supriya Kulkarni**
-Internship Task 1 Submission
 
 ---
 
