@@ -112,5 +112,3 @@ Weather-Data-Analysis/
 **Supriya Kulkarni**
 
 ---
-
-Just say 👍
