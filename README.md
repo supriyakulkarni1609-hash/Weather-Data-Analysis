@@ -2,14 +2,12 @@
 # Weather Data Analysis – Internship Task 1
 
 ## Project Overview
-
 This project performs weather data analysis using Python.
 The analysis includes data exploration, visualization, monthly temperature analysis, and rainfall prediction using Linear Regression, following the instructions provided by the organization.
 
 ---
 
 ## Technologies Used
-
 * Python (version 3.6 or higher)
 * pandas
 * matplotlib
@@ -19,7 +17,6 @@ The analysis includes data exploration, visualization, monthly temperature analy
 ---
 
 ## Dataset
-
 * File name: `weather.csv`
 * The dataset contains historical weather data used for analysis.
 * Ensure that the dataset file is located in the same directory as the Python script.
