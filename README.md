@@ -1,13 +1,13 @@
 # Weather Data Analysis – Internship Task 1
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs basic weather data analysis using Python.
 The analysis includes data exploration, visualization, monthly temperature analysis, and rainfall prediction using Linear Regression, as per the instructions provided by the organization.
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 * Python (>= 3.6)
 * pandas
@@ -17,7 +17,7 @@ The analysis includes data exploration, visualization, monthly temperature analy
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * **File:** `weather.csv`
 * The dataset contains historical weather data used for analysis and prediction.
@@ -25,7 +25,7 @@ The analysis includes data exploration, visualization, monthly temperature analy
 
 ---
 
-## 📄 Provided Instructions (As Given)
+##  Provided Instructions (As Given)
 
 ### 1. Requirements:
 
@@ -78,7 +78,7 @@ python weather_data_analysis.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Weather-Data-Analysis/
@@ -89,7 +89,7 @@ Weather-Data-Analysis/
 
 ---
 
-## 🔍 Implementation Notes
+##  Implementation Notes
 
 * The analysis strictly follows the provided instructions.
 * No changes were made to the task scope or methodology.
@@ -97,7 +97,7 @@ Weather-Data-Analysis/
 
 ---
 
-## 🔮 Future Work and Recommendations
+## Future Work and Recommendations
 
 * Include additional weather features such as humidity and wind speed.
 * Apply advanced machine learning models for improved accuracy.
@@ -107,7 +107,7 @@ Weather-Data-Analysis/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Supriya Kulkarni**
 
